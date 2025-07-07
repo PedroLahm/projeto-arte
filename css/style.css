@@ -69,3 +69,21 @@ a, i{
 #navbar a:hover{
     color: #C1B696;
 }
+
+/* BANNER */
+.main-image{
+    height: 400px;
+    background-image: url(../img/g_1.jpg);
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.main-image-info{
+    background-color: #ffffffe7;
+    padding: 25px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px #0000004f;
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+}
