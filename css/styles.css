@@ -74,7 +74,7 @@ i{
 
 /* BANNER */
 #main-image-container{
-    margin-bottom: 63px;
+    margin-bottom: 55px;
 }
 
 .main-image{
@@ -130,4 +130,33 @@ i{
 #gallery-container .col-md-6,
 #gallery-container .col-12{
     margin-bottom: 50px;
+}
+
+
+/* FOOTER */
+footer{
+    border-top: 1px solid #CCC;
+    height: 250px;
+    padding: 30px;
+}
+
+footer i{
+    font-size: 20px;
+}
+
+#social-icons-container{
+    padding: 25px;
+}
+
+#social-icons-container div{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    margin: 20px;
+}
+
+a:hover i{
+    color: #C1B696;
 }
